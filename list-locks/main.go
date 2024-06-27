@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	sdk "github.com/percona/percona-backup-mongodb/v2"
+	"github.com/percona/percona-backup-mongodb/sdk"
 )
 
 const DefaultMongoURI = "mongodb://localhost:27017"

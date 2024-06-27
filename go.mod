@@ -2,7 +2,7 @@ module github.com/defbin/pbm-sdk-examples
 
 go 1.22
 
-require github.com/percona/percona-backup-mongodb v1.8.1-0.20240627153707-51533508ac64
+require github.com/percona/percona-backup-mongodb v1.8.1-0.20240627161639-56734ad785cf
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.10.0 // indirect
